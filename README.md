@@ -2,7 +2,7 @@ The "Scents Symphony" project represents a fascinating virtual destination for p
 
 ![Screenshot_15](https://github.com/elxsa/Online-Perfume-Shop/assets/146994240/1f3196fd-16a8-47ac-a126-cf10b8d5f668)
 
-Testing Plan
+- Testing Plan
 
 The testing plan for Scents Symphony is designed to evaluate and enhance the online user experience of our perfume store. This phased plan aims to ensure that all components of the site function optimally and that the interface is intuitive and accessible for all users. By implementing a phased testing plan, we aim to systematically address different aspects of the site, from functionality and performance to security and compatibility. Each phase of the plan is meticulously designed to identify specific issues, test proposed solutions, and evaluate the impact of improvements on the user experience, ensuring that each component of the site contributes to a superior browsing and shopping experience.
 

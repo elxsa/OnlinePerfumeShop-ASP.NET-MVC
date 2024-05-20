@@ -1,0 +1,24 @@
+﻿@model IEnumerable<ScentsSymphonyWeb.Models.Parfumuri>
+
+@{
+    ViewData["Title"] = "Shop";
+}
+
+<h2 class="mt-3 mb-3">Shop</h2>
+
+<div class="row">
+    @foreach (var parfum in Model)
+    {
+        <div class="col-md-4">
+            <div class="card mb-4 shadow-sm">
+                <img class="card-img-top" src="@parfum.ImageURL" alt="@parfum.Name" />
+                <div class="card-body">
+                    <h5 class="card-title">@parfum.Name</h5>
+                    <p class="card-text">@parfum.Description</p>
+                    <p class="card-text">@parfum.Price</p>
+                    <a asp-controller="Shop" asp-action="Details" asp-route-id="@parfum.ProductID" class="btn btn-primary">Details</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>

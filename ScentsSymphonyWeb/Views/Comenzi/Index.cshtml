@@ -1,0 +1,19 @@
+﻿@model IEnumerable<ScentsSymphonyWeb.Models.Order>
+
+<h2>Orders</h2>
+
+@foreach (var order in Model)
+{
+    <div class="order-summary">
+        <p>Order ID: @order.OrderID</p>
+        <p>Total Amount: @order.TotalAmount</p>
+        <p>Order Date: @order.OrderDate</p>
+        <ul>
+            @foreach (var item in order.OrderItems)
+            {
+                <li>@item.Product.Name - Quantity: @item.Quantity - Price: @item.Price</li>
+            }
+        </ul>
+        <a href="@Url.Action("Details", new { id = order.OrderID })">View Details</a>
+    </div>
+}

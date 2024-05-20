@@ -1,0 +1,22 @@
+﻿@model ScentsSymphonyWeb.Models.Parfumuri
+
+<h2>Reviews</h2>
+@foreach (var review in Model.Reviews)
+{
+<div class="review">
+<p>Rating: @review.Rating</p>
+<p>@review.Comment</p>
+<p>Date: @review.ReviewDate</p>
+<p>User: @review.User.UserName</p>
+<a asp-controller="Reviews" asp-action="Delete" asp-route-id="@review.ReviewID">Delete</a>
+</div>
+}
+
+<form asp-controller="Reviews" asp-action="Create" method="post">
+    <input type="hidden" name="productId" value="@Model.ProductID" />
+    <label for="rating">Rating:</label>
+    <input type="number" id="rating" name="rating" min="1" max="5" />
+    <label for="comment">Comment:</label>
+    <textarea id="comment" name="comment"></textarea>
+    <button type="submit">Submit Review</button>
+</form>

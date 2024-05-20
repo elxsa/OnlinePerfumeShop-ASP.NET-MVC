@@ -1,0 +1,645 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|c:\\users\\mihai necula\\desktop\\unzipmyzipxoxo\\cacamaca2 - copy\\scentssymphony\\scentssymphonyweb\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|solutionrelative:scentssymphonyweb\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|c:\\users\\mihai necula\\desktop\\unzipmyzipxoxo\\cacamaca2 - copy\\scentssymphony\\scentssymphonyweb\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|solutionrelative:scentssymphonyweb\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|c:\\users\\mihai necula\\desktop\\unzipmyzipxoxo\\cacamaca2 - copy\\scentssymphony\\scentssymphonyweb\\views\\cart\\orderconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|solutionrelative:scentssymphonyweb\\views\\cart\\orderconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|c:\\users\\mihai necula\\desktop\\unzipmyzipxoxo\\cacamaca2 - copy\\scentssymphony\\scentssymphonyweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|solutionrelative:scentssymphonyweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|c:\\users\\mihai necula\\desktop\\unzipmyzipxoxo\\cacamaca2 - copy\\scentssymphony\\scentssymphonyweb\\views\\comenzi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|solutionrelative:scentssymphonyweb\\views\\comenzi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|c:\\users\\mihai necula\\desktop\\unzipmyzipxoxo\\cacamaca2 - copy\\scentssymphony\\scentssymphonyweb\\views\\comenzi\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|solutionrelative:scentssymphonyweb\\views\\comenzi\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|c:\\users\\mihai necula\\desktop\\unzipmyzipxoxo\\cacamaca2 - copy\\scentssymphony\\scentssymphonyweb\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|solutionrelative:scentssymphonyweb\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|c:\\users\\mihai necula\\desktop\\unzipmyzipxoxo\\cacamaca2 - copy\\scentssymphony\\scentssymphonyweb\\models\\stripesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|solutionrelative:scentssymphonyweb\\models\\stripesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|c:\\users\\mihai necula\\desktop\\unzipmyzipxoxo\\cacamaca2 - copy\\scentssymphony\\scentssymphonyweb\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|solutionrelative:scentssymphonyweb\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|c:\\users\\mihai necula\\desktop\\unzipmyzipxoxo\\cacamaca2 - copy\\scentssymphony\\scentssymphonyweb\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|solutionrelative:scentssymphonyweb\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|c:\\users\\mihai necula\\desktop\\unzipmyzipxoxo\\cacamaca2 - copy\\scentssymphony\\scentssymphonyweb\\views\\shop\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|solutionrelative:scentssymphonyweb\\views\\shop\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|c:\\users\\mihai necula\\desktop\\unzipmyzipxoxo\\cacamaca2 - copy\\scentssymphony\\scentssymphonyweb\\views\\parfumuri\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|solutionrelative:scentssymphonyweb\\views\\parfumuri\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|c:\\users\\mihai necula\\desktop\\unzipmyzipxoxo\\cacamaca2 - copy\\scentssymphony\\scentssymphonyweb\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|solutionrelative:scentssymphonyweb\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|c:\\users\\mihai necula\\desktop\\unzipmyzipxoxo\\cacamaca2 - copy\\scentssymphony\\scentssymphonyweb\\scentssymphonyweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|solutionrelative:scentssymphonyweb\\scentssymphonyweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|c:\\users\\mihai necula\\desktop\\unzipmyzipxoxo\\cacamaca2 - copy\\scentssymphony\\scentssymphonyweb\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|solutionrelative:scentssymphonyweb\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|c:\\users\\mihai necula\\desktop\\unzipmyzipxoxo\\cacamaca2 - copy\\scentssymphony\\scentssymphonyweb\\helpers\\sessionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|solutionrelative:scentssymphonyweb\\helpers\\sessionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|c:\\users\\mihai necula\\desktop\\unzipmyzipxoxo\\cacamaca2 - copy\\scentssymphony\\scentssymphonyweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|solutionrelative:scentssymphonyweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|c:\\users\\mihai necula\\desktop\\unzipmyzipxoxo\\cacamaca2 - copy\\scentssymphony\\scentssymphonyweb\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|solutionrelative:scentssymphonyweb\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|c:\\users\\mihai necula\\desktop\\unzipmyzipxoxo\\cacamaca2 - copy\\scentssymphony\\scentssymphonyweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|solutionrelative:scentssymphonyweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|c:\\users\\mihai necula\\desktop\\unzipmyzipxoxo\\cacamaca2 - copy\\scentssymphony\\scentssymphonyweb\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|solutionrelative:scentssymphonyweb\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|c:\\users\\mihai necula\\desktop\\unzipmyzipxoxo\\cacamaca2 - copy\\scentssymphony\\scentssymphonyweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|solutionrelative:scentssymphonyweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|c:\\users\\mihai necula\\desktop\\unzipmyzipxoxo\\cacamaca2 - copy\\scentssymphony\\scentssymphonyweb\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|solutionrelative:scentssymphonyweb\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|c:\\users\\mihai necula\\desktop\\unzipmyzipxoxo\\cacamaca2 - copy\\scentssymphony\\scentssymphonyweb\\views\\payments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|solutionrelative:scentssymphonyweb\\views\\payments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|c:\\users\\mihai necula\\desktop\\unzipmyzipxoxo\\cacamaca2 - copy\\scentssymphony\\scentssymphonyweb\\views\\payments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|solutionrelative:scentssymphonyweb\\views\\payments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|c:\\users\\mihai necula\\desktop\\unzipmyzipxoxo\\cacamaca2 - copy\\scentssymphony\\scentssymphonyweb\\views\\payments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|solutionrelative:scentssymphonyweb\\views\\payments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|c:\\users\\mihai necula\\desktop\\unzipmyzipxoxo\\cacamaca2 - copy\\scentssymphony\\scentssymphonyweb\\controllers\\parfumuricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|solutionrelative:scentssymphonyweb\\controllers\\parfumuricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|c:\\users\\mihai necula\\desktop\\unzipmyzipxoxo\\cacamaca2 - copy\\scentssymphony\\scentssymphonyweb\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|solutionrelative:scentssymphonyweb\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|c:\\users\\mihai necula\\desktop\\unzipmyzipxoxo\\cacamaca2 - copy\\scentssymphony\\scentssymphonyweb\\models\\parfumuri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|solutionrelative:scentssymphonyweb\\models\\parfumuri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|c:\\users\\mihai necula\\desktop\\unzipmyzipxoxo\\cacamaca2 - copy\\scentssymphony\\scentssymphonyweb\\models\\reviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|solutionrelative:scentssymphonyweb\\models\\reviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|c:\\users\\mihai necula\\desktop\\unzipmyzipxoxo\\cacamaca2 - copy\\scentssymphony\\scentssymphonyweb\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|solutionrelative:scentssymphonyweb\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|c:\\users\\mihai necula\\desktop\\unzipmyzipxoxo\\cacamaca2 - copy\\scentssymphony\\scentssymphonyweb\\views\\reviews\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|solutionrelative:scentssymphonyweb\\views\\reviews\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|c:\\users\\mihai necula\\desktop\\unzipmyzipxoxo\\cacamaca2 - copy\\scentssymphony\\scentssymphonyweb\\views\\reviews\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|solutionrelative:scentssymphonyweb\\views\\reviews\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|c:\\users\\mihai necula\\desktop\\unzipmyzipxoxo\\cacamaca2 - copy\\scentssymphony\\scentssymphonyweb\\views\\reviews\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|solutionrelative:scentssymphonyweb\\views\\reviews\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|c:\\users\\mihai necula\\desktop\\unzipmyzipxoxo\\cacamaca2 - copy\\scentssymphony\\scentssymphonyweb\\data\\migrations\\20240507140559_addordersandorderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|solutionrelative:scentssymphonyweb\\data\\migrations\\20240507140559_addordersandorderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|c:\\users\\mihai necula\\desktop\\unzipmyzipxoxo\\cacamaca2 - copy\\scentssymphony\\scentssymphonyweb\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|solutionrelative:scentssymphonyweb\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|c:\\users\\mihai necula\\desktop\\unzipmyzipxoxo\\cacamaca2 - copy\\scentssymphony\\scentssymphonyweb\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|solutionrelative:scentssymphonyweb\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|c:\\users\\mihai necula\\desktop\\unzipmyzipxoxo\\cacamaca2 - copy\\scentssymphony\\scentssymphonyweb\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|solutionrelative:scentssymphonyweb\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|c:\\users\\mihai necula\\desktop\\unzipmyzipxoxo\\cacamaca2 - copy\\scentssymphony\\scentssymphonyweb\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|solutionrelative:scentssymphonyweb\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|c:\\users\\mihai necula\\desktop\\unzipmyzipxoxo\\cacamaca2 - copy\\scentssymphony\\scentssymphonyweb\\data\\migrations\\20240507144840_addpayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05322C85-369E-4597-B5E6-B55504B61F64}|ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj|solutionrelative:scentssymphonyweb\\data\\migrations\\20240507144840_addpayments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StripeSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Models\\StripeSettings.cs",
+              "RelativeDocumentMoniker": "ScentsSymphonyWeb\\Models\\StripeSettings.cs",
+              "ToolTip": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Models\\StripeSettings.cs",
+              "RelativeToolTip": "ScentsSymphonyWeb\\Models\\StripeSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T20:57:57.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "ScentsSymphonyWeb\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Models\\Order.cs",
+              "RelativeToolTip": "ScentsSymphonyWeb\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T13:53:13.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Views\\Comenzi\\Details.cshtml",
+              "RelativeDocumentMoniker": "ScentsSymphonyWeb\\Views\\Comenzi\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Views\\Comenzi\\Details.cshtml",
+              "RelativeToolTip": "ScentsSymphonyWeb\\Views\\Comenzi\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T14:23:20.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Views\\Comenzi\\Index.cshtml",
+              "RelativeDocumentMoniker": "ScentsSymphonyWeb\\Views\\Comenzi\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Views\\Comenzi\\Index.cshtml",
+              "RelativeToolTip": "ScentsSymphonyWeb\\Views\\Comenzi\\Index.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T14:22:43.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "ScentsSymphonyWeb\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Controllers\\CartController.cs",
+              "RelativeToolTip": "ScentsSymphonyWeb\\Controllers\\CartController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAAKMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T20:10:56.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Program.cs",
+              "RelativeDocumentMoniker": "ScentsSymphonyWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Program.cs",
+              "RelativeToolTip": "ScentsSymphonyWeb\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T21:13:01.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Views\\Cart\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "ScentsSymphonyWeb\\Views\\Cart\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Views\\Cart\\Checkout.cshtml",
+              "RelativeToolTip": "ScentsSymphonyWeb\\Views\\Cart\\Checkout.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAYwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T20:14:25.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Views\\Cart\\OrderConfirmation.cshtml",
+              "RelativeDocumentMoniker": "ScentsSymphonyWeb\\Views\\Cart\\OrderConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Views\\Cart\\OrderConfirmation.cshtml",
+              "RelativeToolTip": "ScentsSymphonyWeb\\Views\\Cart\\OrderConfirmation.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAYwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T20:59:58.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "ScentsSymphonyWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "ScentsSymphonyWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T21:13:01.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Views\\Parfumuri\\Index.cshtml",
+              "RelativeDocumentMoniker": "ScentsSymphonyWeb\\Views\\Parfumuri\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Views\\Parfumuri\\Index.cshtml",
+              "RelativeToolTip": "ScentsSymphonyWeb\\Views\\Parfumuri\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAkwCgAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T13:54:41.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "ScentsSymphonyWeb\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Models\\CartItem.cs",
+              "RelativeToolTip": "ScentsSymphonyWeb\\Models\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T20:11:16.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "ScentsSymphonyWeb\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "ScentsSymphonyWeb\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T18:01:31.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ScentsSymphonyWeb.csproj",
+              "DocumentMoniker": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj",
+              "RelativeDocumentMoniker": "ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj",
+              "ToolTip": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj",
+              "RelativeToolTip": "ScentsSymphonyWeb\\ScentsSymphonyWeb.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-06T21:13:01.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Views\\Shop\\Details.cshtml",
+              "RelativeDocumentMoniker": "ScentsSymphonyWeb\\Views\\Shop\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Views\\Shop\\Details.cshtml",
+              "RelativeToolTip": "ScentsSymphonyWeb\\Views\\Shop\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T18:02:16.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SessionHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Helpers\\SessionHelper.cs",
+              "RelativeDocumentMoniker": "ScentsSymphonyWeb\\Helpers\\SessionHelper.cs",
+              "ToolTip": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Helpers\\SessionHelper.cs",
+              "RelativeToolTip": "ScentsSymphonyWeb\\Helpers\\SessionHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T20:12:02.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "ScentsSymphonyWeb\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "ScentsSymphonyWeb\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T20:13:55.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Views\\Payments\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ScentsSymphonyWeb\\Views\\Payments\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Views\\Payments\\Delete.cshtml",
+              "RelativeToolTip": "ScentsSymphonyWeb\\Views\\Payments\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T14:56:14.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "ScentsSymphonyWeb\\Controllers\\PaymentsController.cs",
+              "ToolTip": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "ScentsSymphonyWeb\\Controllers\\PaymentsController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T14:54:48.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Reviews.cs",
+              "DocumentMoniker": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Models\\Reviews.cs",
+              "RelativeDocumentMoniker": "ScentsSymphonyWeb\\Models\\Reviews.cs",
+              "ToolTip": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Models\\Reviews.cs",
+              "RelativeToolTip": "ScentsSymphonyWeb\\Models\\Reviews.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T14:27:03.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Views\\Payments\\Index.cshtml",
+              "RelativeDocumentMoniker": "ScentsSymphonyWeb\\Views\\Payments\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Views\\Payments\\Index.cshtml",
+              "RelativeToolTip": "ScentsSymphonyWeb\\Views\\Payments\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T14:55:15.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Views\\Payments\\Details.cshtml",
+              "RelativeDocumentMoniker": "ScentsSymphonyWeb\\Views\\Payments\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Views\\Payments\\Details.cshtml",
+              "RelativeToolTip": "ScentsSymphonyWeb\\Views\\Payments\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T14:55:35.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "ScentsSymphonyWeb\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "ScentsSymphonyWeb\\Controllers\\ShopController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwBEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T18:01:11.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ScentsSymphonyWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ScentsSymphonyWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADIAAAAAAAAAAAAgwEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T21:13:01.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ScentsSymphonyWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ScentsSymphonyWeb\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T21:13:01.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "ScentsSymphonyWeb\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "ScentsSymphonyWeb\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowBUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T14:21:12.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ScentsSymphonyWeb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ScentsSymphonyWeb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAIBZwCoAAACAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T21:13:01.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ReviewsController.cs",
+              "DocumentMoniker": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Controllers\\ReviewsController.cs",
+              "RelativeDocumentMoniker": "ScentsSymphonyWeb\\Controllers\\ReviewsController.cs",
+              "ToolTip": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Controllers\\ReviewsController.cs",
+              "RelativeToolTip": "ScentsSymphonyWeb\\Controllers\\ReviewsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwBkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T14:34:23.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Views\\Reviews\\Create.cshtml",
+              "RelativeDocumentMoniker": "ScentsSymphonyWeb\\Views\\Reviews\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Views\\Reviews\\Create.cshtml",
+              "RelativeToolTip": "ScentsSymphonyWeb\\Views\\Reviews\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T14:35:12.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Views\\Reviews\\Details.cshtml",
+              "RelativeDocumentMoniker": "ScentsSymphonyWeb\\Views\\Reviews\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Views\\Reviews\\Details.cshtml",
+              "RelativeToolTip": "ScentsSymphonyWeb\\Views\\Reviews\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T14:40:02.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Views\\Reviews\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ScentsSymphonyWeb\\Views\\Reviews\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Views\\Reviews\\Delete.cshtml",
+              "RelativeToolTip": "ScentsSymphonyWeb\\Views\\Reviews\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T14:40:23.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "ScentsSymphonyWeb\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Models\\Payment.cs",
+              "RelativeToolTip": "ScentsSymphonyWeb\\Models\\Payment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T14:46:24.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20240507144840_AddPayments.cs",
+              "DocumentMoniker": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Data\\Migrations\\20240507144840_AddPayments.cs",
+              "RelativeDocumentMoniker": "ScentsSymphonyWeb\\Data\\Migrations\\20240507144840_AddPayments.cs",
+              "ToolTip": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Data\\Migrations\\20240507144840_AddPayments.cs",
+              "RelativeToolTip": "ScentsSymphonyWeb\\Data\\Migrations\\20240507144840_AddPayments.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T14:48:40.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ParfumuriController.cs",
+              "DocumentMoniker": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Controllers\\ParfumuriController.cs",
+              "RelativeDocumentMoniker": "ScentsSymphonyWeb\\Controllers\\ParfumuriController.cs",
+              "ToolTip": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Controllers\\ParfumuriController.cs",
+              "RelativeToolTip": "ScentsSymphonyWeb\\Controllers\\ParfumuriController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwBAAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T21:36:53.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20240507140559_AddOrdersAndOrderItems.cs",
+              "DocumentMoniker": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Data\\Migrations\\20240507140559_AddOrdersAndOrderItems.cs",
+              "RelativeDocumentMoniker": "ScentsSymphonyWeb\\Data\\Migrations\\20240507140559_AddOrdersAndOrderItems.cs",
+              "ToolTip": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Data\\Migrations\\20240507140559_AddOrdersAndOrderItems.cs",
+              "RelativeToolTip": "ScentsSymphonyWeb\\Data\\Migrations\\20240507140559_AddOrdersAndOrderItems.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAkwEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T14:06:00.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Parfumuri.cs",
+              "DocumentMoniker": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Models\\Parfumuri.cs",
+              "RelativeDocumentMoniker": "ScentsSymphonyWeb\\Models\\Parfumuri.cs",
+              "ToolTip": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Models\\Parfumuri.cs",
+              "RelativeToolTip": "ScentsSymphonyWeb\\Models\\Parfumuri.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAxwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T13:54:14.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ScentsSymphonyWeb\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "ScentsSymphonyWeb\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T21:13:01.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ScentsSymphonyWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "ScentsSymphonyWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBZwBwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T21:13:01.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScentsSymphonyWeb\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScentsSymphonyWeb\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-06T21:13:01.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ScentsSymphonyWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Mihai Necula\\Desktop\\UnzipMyZipXoxo\\Cacamaca2 - Copy\\ScentsSymphony\\ScentsSymphonyWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "ScentsSymphonyWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAuwDIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T21:13:01.794Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

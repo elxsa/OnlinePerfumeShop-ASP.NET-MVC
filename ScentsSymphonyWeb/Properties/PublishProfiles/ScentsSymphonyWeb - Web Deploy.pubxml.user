@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAsqSZDH3FPES0H/tEczMVswAAAAACAAAAAAAQZgAAAAEAACAAAAD76IWsF01S6lX87vGjZ6zjN0CdxDaYc/up8i7ah5vs1QAAAAAOgAAAAAIAACAAAAAuqZYxZa2uHd5FJLY3+LqP0oUoFkG9mBcweXAC8WvKUYAAAACPOuKuzwt+2xbB2hSaShzmCEopJsr/2tZoeYkr6hgqEL8MLHS7iYCmOVuDojOk17u2Tk9rVlGND+3/CjB9meXdReDWeswvAy+K0HfPSZi5XAZPqFfIZC2wpR/2Xi7ljQGN24yCdzm97GPmyJhW9rJByBromvhXR6SSi5PJWOVUlUAAAACoAXSLJ4li/FfAQ+QHkpXh6T0VYXgzDeGKxUNaIkxDxFHzcAt84NWQ6EVW764rAvNUwMrUifM7NwFgUqcQcvYJ</EncryptedPassword>
+    <History>True|2024-05-06T00:26:24.4335798Z;True|2024-05-06T03:25:23.8172220+03:00;True|2024-05-06T03:02:34.0232439+03:00;True|2024-05-06T02:59:25.6096066+03:00;True|2024-05-06T02:47:40.2527388+03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=tcp:scentssymphonyserver.database.windows.net,1433%3bInitial Catalog=Scents_db%3bPersist Security Info=False%3bUser ID=admin-sql%3bPassword=Otilonis123%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

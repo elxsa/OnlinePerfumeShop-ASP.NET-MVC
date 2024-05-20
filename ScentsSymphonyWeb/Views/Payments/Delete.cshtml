@@ -1,0 +1,15 @@
+﻿@model ScentsSymphonyWeb.Models.Payment
+
+<h2>Delete Payment</h2>
+<div>
+    <p>Payment ID: @Model.PaymentID</p>
+    <p>Order ID: @Model.OrderID</p>
+    <p>Amount: @Model.Amount</p>
+    <p>Payment Date: @Model.PaymentDate</p>
+    <p>Payment Method: @Model.PaymentMethod</p>
+    <p>Status: @Model.Status</p>
+</div>
+<form asp-action="DeleteConfirmed" method="post">
+    <input type="hidden" asp-for="PaymentID" />
+    <button type="submit" class="btn btn-danger">Delete</button>
+</form>

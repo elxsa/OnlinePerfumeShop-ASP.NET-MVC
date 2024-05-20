@@ -1,0 +1,15 @@
+﻿@model ScentsSymphonyWeb.Models.Order
+
+<h2>Order Details</h2>
+
+<div class="order-detail">
+    <p>Order ID: @Model.OrderID</p>
+    <p>Total Amount: @Model.TotalAmount</p>
+    <p>Order Date: @Model.OrderDate</p>
+    <ul>
+        @foreach (var item in Model.OrderItems)
+        {
+            <li>@item.Product.Name - Quantity: @item.Quantity - Price: @item.Price</li>
+        }
+    </ul>
+</div>

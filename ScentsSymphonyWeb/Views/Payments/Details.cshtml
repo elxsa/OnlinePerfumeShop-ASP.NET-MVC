@@ -1,0 +1,21 @@
+﻿@model ScentsSymphonyWeb.Models.Payment
+
+<h2>Payment Details</h2>
+<div>
+    <p>Payment ID: @Model.PaymentID</p>
+    <p>Order ID: @Model.OrderID</p>
+    <p>Amount: @Model.Amount</p>
+    <p>Payment Date: @Model.PaymentDate</p>
+    <p>Payment Method: @Model.PaymentMethod</p>
+    <p>Status: @Model.Status</p>
+</div>
+<form asp-action="UpdateStatus" method="post">
+    <input type="hidden" name="paymentId" value="@Model.PaymentID" />
+    <label for="status">Status:</label>
+    <select id="status" name="status">
+       @* <option value="Pending" @(Model.Status == "Pending" ? "selected" : "")>Pending</option>
+        <option value="Approved" @(Model.Status == "Approved" ? "selected" : "")>Approved</option>
+        <option value="Declined" @(Model.Status == "Declined" ? "selected" : "")>Declined</option>*@
+    </select>
+    <button type="submit" class="btn btn-primary">Update</button>
+</form>

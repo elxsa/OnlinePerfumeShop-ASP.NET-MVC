@@ -1,0 +1,51 @@
+﻿@model Parfumuri
+
+<form method="post">
+	<div class="border p-3 mt-4">
+		<div class="row pb-2">
+			<h2>Add a perfume</h2>
+			<hr />
+		</div>
+		<div class="mb-3">
+			<label asp-for="Name">Name</label>
+			<input asp-for="Name" class="form-control" />
+			<span asp-validation-for="Name" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="Description">Description</label>
+			<input asp-for="Description" class="form-control" />
+			<span asp-validation-for="Description" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="Price">Price</label>
+			<input asp-for="Price" class="form-control" />
+			<span asp-validation-for="Price" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="PerfumeNotes">Perfume notes</label>
+			<input asp-for="PerfumeNotes" class="form-control" />
+			<span asp-validation-for="PerfumeNotes" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="Stock">Stock</label>
+			<input asp-for="Stock" class="form-control" />
+			<span asp-validation-for="Stock" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="ImageURL">Image URL</label>
+			<input asp-for="ImageURL" class="form-control" />
+			<span asp-validation-for="ImageURL" class="text-danger"></span>
+		</div>
+		<button type="submit" class="btn btn-primary" style="width:150px">Add</button>
+		<a asp-controller="Parfumuri" asp-action="Index" class="btn btn-secondary" style="width:150px">
+			Back to list
+		</a>
+	</div>
+</form>
+
+@section Scripts{
+	@{
+		<partial name="_ValidationScriptsPartial" />
+	}
+}
+

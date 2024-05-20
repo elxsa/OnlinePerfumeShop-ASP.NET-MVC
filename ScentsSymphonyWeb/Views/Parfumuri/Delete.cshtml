@@ -1,0 +1,51 @@
+﻿@model ScentsSymphonyWeb.Models.Parfumuri
+
+@{
+    ViewData["Title"] = "Delete Perfume";
+}
+<hr />
+<h2>Delete Perfume</h2>
+<hr />
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="ProductID" />
+
+    <div class="form-group">
+        <label asp-for="Name" class="control-label"></label>
+        <input asp-for="Name" class="form-control" readonly />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Description" class="control-label"></label>
+        <input asp-for="Description" class="form-control" readonly />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Price" class="control-label"></label>
+        <input asp-for="Price" class="form-control" readonly />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="PerfumeNotes" class="control-label"></label>
+        <input asp-for="PerfumeNotes" class="form-control" readonly />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Stock" class="control-label"></label>
+        <input asp-for="Stock" class="form-control" readonly />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="ImageURL" class="control-label"></label>
+        <input asp-for="ImageURL" class="form-control" readonly />
+    </div>
+    <div class="form-group mt-3">
+        <button type="submit" class="btn btn-danger">Delete</button>
+        <a asp-action="Index" class="btn btn-secondary ml-2">Cancel</a>
+    </div>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

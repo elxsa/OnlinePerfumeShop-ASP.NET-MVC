@@ -1,0 +1,27 @@
+﻿@model ScentsSymphonyWeb.Models.Parfumuri
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2 class="mt-3 mb-3">@Model.Name</h2>
+
+<div class="row">
+    <div class="col-md-6">
+        <img class="img-fluid" src="@Model.ImageURL" alt="@Model.Name" />
+    </div>
+    <div class="col-md-6">
+        <h3>Description</h3>
+        <p>@Model.Description</p>
+        <h3>Price (RON)</h3>
+        <p>@Model.Price</p>
+        <h3>Perfume Notes</h3>
+        <p>@Model.PerfumeNotes</p>
+        <h3>Stock</h3>
+        <p>@Model.Stock</p>
+        <form asp-controller="Cart" asp-action="AddToCart" method="post">
+            <input type="hidden" name="productId" value="@Model.ProductID" />
+            <button type="submit" class="btn btn-success">Add to Cart</button>
+        </form>
+    </div>
+</div>

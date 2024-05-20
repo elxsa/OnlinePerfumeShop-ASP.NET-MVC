@@ -1,0 +1,37 @@
+﻿@model ScentsSymphonyWeb.Models.Order
+
+@{
+    ViewData["Title"] = "Order Confirmation";
+}
+
+<h2 class="mt-3 mb-3">Order Confirmation</h2>
+
+<p>Thank you for your purchase! Your order has been successfully placed.</p>
+
+<h3>Order Details</h3>
+<ul>
+    <li>Order ID: @Model.OrderID</li>
+    <li>Order Date: @Model.OrderDate</li>
+    <li>Total Amount: @Model.TotalAmount</li>
+</ul>
+
+<h3>Order Items</h3>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Product</th>
+            <th>Quantity</th>
+            <th>Price (RON)</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.OrderItems)
+        {
+            <tr>
+                <td>@item.Product.Name</td>
+                <td>@item.Quantity</td>
+                <td>@item.Price</td>
+            </tr>
+        }
+    </tbody>
+</table>

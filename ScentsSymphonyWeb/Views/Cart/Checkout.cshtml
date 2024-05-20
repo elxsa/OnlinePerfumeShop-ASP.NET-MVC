@@ -1,0 +1,37 @@
+﻿@model List<ScentsSymphonyWeb.Models.CartItem>
+
+@{
+    ViewData["Title"] = "Checkout";
+}
+
+<h2 class="mt-3 mb-3">Checkout</h2>
+
+<p>Review your order and confirm your payment.</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Product</th>
+            <th>Quantity</th>
+            <th>Price</th>
+            <th>Total</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Product.Name</td>
+                <td>@item.Quantity</td>
+                <td>@item.Product.Price</td>
+                <td>@(item.Product.Price * item.Quantity)</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div class="mt-3">
+    <form asp-action="ConfirmCheckout" method="post">
+        <button type="submit" class="btn btn-primary">Confirm Payment</button>
+    </form>
+</div>

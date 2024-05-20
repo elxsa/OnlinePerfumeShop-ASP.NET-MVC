@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to Scents Symphony</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-beta1/css/bootstrap.min.css">
+    <style>
+        html, body {
+            height: 100%;
+        }
+
+        .background {
+            background: url("/PisicaParfum1.jpg") no-repeat center center fixed;
+            background-size: cover; 
+            position: fixed; 
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            width: 100vw;
+            height: 100vh; 
+            z-index: -1; 
+        }
+
+        .content {
+            position: relative; 
+            z-index: 1;
+            text-align: center; 
+            color: white; 
+            padding-top: 40px; 
+        }
+    </style>
+</head>
+<body>
+    <div class="background"></div>
+    <div class="content">
+        <h1>Welcome to Scents Symphony!</h1>
+        <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+        <p>Experience the Orchestra of Scents</p>
+        <button class="btn btn-primary mt-3" id="learnMoreBtn">Learn More</button>
+    </div>
+
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-beta1/js/bootstrap.min.js"></script>
+    <script>
+        document.getElementById('learnMoreBtn').addEventListener('click', function () {
+            alert('Thank you for your interest! We will be launching soon.');
+        });
+    </script>
+</body>
+</html>
